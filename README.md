@@ -4,7 +4,7 @@ By Xin (Alex) Guo, created on Nov 18, 2017
 
 ## What is it?
 
-This script generates a project folder and directory structure for a data analysis project so that you don't have to do this from scratch every time.
+This script generates a project folder and directory structure for a data analysis project so that you don't have to do this from scratch every time. It has one argument `project_name` (default name: "project").
 
 The directory structure will be generated as below:
 
