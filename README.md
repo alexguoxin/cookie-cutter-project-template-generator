@@ -31,6 +31,8 @@ as a title.
 
 Download/Clone this repo and put the file `cookiecutter.sh` in the directory where you want to create the project folder. Run the command line below in terminal:
 
-`bash cookiecutter.sh project_name`
+```
+bash cookiecutter.sh project_name
+```
 
 `project_name` is the name you want to name the project folder and title the `README.md`. If it is omitted, the default name is "project".
